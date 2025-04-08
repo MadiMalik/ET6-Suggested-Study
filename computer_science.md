@@ -20,6 +20,9 @@
 - [Data Structures & Algorithms (CS Dojo)](https://www.youtube.com/playlist?list=PLBZBJbE_rGRV8D7XZ08LK6z-4zPoWzu5H):
   Introduction to Data Structures and Algorithms using Python and Java. Very
   good visuals, whiteboarding and explanations. Code samples available.
+- Algorithms and Time Complexity [Abdel Bari](https://youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O)
+  A concise playlist with clear examples, making complex concepts in algorithms and time complexity easier to understand.
+  
 
 ## Algorithm Visualization Tools
 
